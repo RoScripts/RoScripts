@@ -1,2 +1,3 @@
 # RoScripts
-The website
+This is the website project/hosting.
+
